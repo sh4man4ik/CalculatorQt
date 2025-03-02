@@ -1,5 +1,6 @@
 # CalculatorQt
 A calculator with a beautiful design written in C++ programming language. For GUI I used **Qt Quick** library. To calculate the **exprtk**.
+
 ![Image alt](https://github.com/sh4man4ik/CalculatorQt/blob/main/CalculatorScreenshot.png)
 
 # Quick start
